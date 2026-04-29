@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+0e593fb932db69b90a7f391398adc410 CMakeFiles/RoyalChess_autogen
+dc3d4a3bbcf4d8667fb09e642c0e57ab RoyalChess_autogen/timestamp

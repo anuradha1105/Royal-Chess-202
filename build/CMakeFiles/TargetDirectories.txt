@@ -1,0 +1,5 @@
+/Users/anuradhasrivastav/Documents/CMPE202/chess2/build/CMakeFiles/RoyalChess.dir
+/Users/anuradhasrivastav/Documents/CMPE202/chess2/build/CMakeFiles/edit_cache.dir
+/Users/anuradhasrivastav/Documents/CMPE202/chess2/build/CMakeFiles/rebuild_cache.dir
+/Users/anuradhasrivastav/Documents/CMPE202/chess2/build/CMakeFiles/RoyalChess_autogen_timestamp_deps.dir
+/Users/anuradhasrivastav/Documents/CMPE202/chess2/build/CMakeFiles/RoyalChess_autogen.dir

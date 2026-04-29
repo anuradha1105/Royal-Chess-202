@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_RoyalChess_FILE /Users/anuradhasrivastav/Documents/CMPE202/chess2/build/RoyalChess)
+set(__QT_DEPLOY_TARGET_RoyalChess_TYPE EXECUTABLE)
